@@ -262,4 +262,4 @@ feat: :sparkles: add the amazing button
 
 Every contributor's efforts and time are deeply appreciated! Thank you. :smile:
 
-[![Contributors](https://contrib.rocks/image?repo=commclassroom/classroom-monitor-bot)](https://github.com/commclassroom/classroom-monitor-bot/graphs/contributors)
+[![Contributors](https://contrib.rocks/imagrrrepoecommclassroom/classroom-monitor-bot)](https://github.com/commclassroom/classroom-monitor-bot/graphs/contributors)
